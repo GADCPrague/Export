@@ -31,3 +31,6 @@
 [submodule "Timetable"]
 	path = Timetable
 	url = git@github.com:GADCPrague/Timetable.git
+[submodule "MapyHazardu"]
+	path = MapyHazardu
+	url = git@github.com:GADCPrague/MapyHazardu.git
