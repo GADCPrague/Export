@@ -1,0 +1,33 @@
+[submodule "DoIKnowYou"]
+	path = DoIKnowYou
+	url = git@github.com:GADCPrague/DoIKnowYou.git
+[submodule "Gorillaz"]
+	path = Gorillaz
+	url = git@github.com:GADCPrague/Gorillaz.git
+[submodule "SuportaMasta"]
+	path = SuportaMasta
+	url = git@github.com:GADCPrague/SuportaMasta.git
+[submodule "GeoCatching"]
+	path = GeoCatching
+	url = git@github.com:GADCPrague/GeoCatching.git
+[submodule "Nameday-Reminder"]
+	path = Nameday-Reminder
+	url = git@github.com:GADCPrague/Nameday-Reminder.git
+[submodule "CeliDB"]
+	path = CeliDB
+	url = git@github.com:GADCPrague/CeliDB.git
+[submodule "MessageTimer"]
+	path = MessageTimer
+	url = git@github.com:GADCPrague/MessageTimer.git
+[submodule "Project-Manhattan"]
+	path = Project-Manhattan
+	url = git@github.com:GADCPrague/Project-Manhattan.git
+[submodule "Look-Around"]
+	path = Look-Around
+	url = git@github.com:GADCPrague/Look-Around.git
+[submodule "Harvester"]
+	path = Harvester
+	url = git@github.com:GADCPrague/Harvester.git
+[submodule "Timetable"]
+	path = Timetable
+	url = git@github.com:GADCPrague/Timetable.git
